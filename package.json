@@ -1,6 +1,6 @@
 {
   "name": "@fav/prop.pick-deep",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Creates a plain object and copys child and descendant properties of a source object only specified deeply",
   "main": "index.js",
   "files": [
